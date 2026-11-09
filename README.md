@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Fırat 👋
 
-<!--
-**Firatkaradogan/Firatkaradogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at **Istanbul Bilgi University**, interested in **data engineering** and **evaluating AI/LLM outputs**.
 
-Here are some ideas to get you started:
+## 🔭 What I'm working on
+- **[SmartLoo](https://github.com/akcedia/SmartLoo)**: team project mapping public toilets in Istanbul using open city data. I own the **data model & database layer** (PostgreSQL + PostGIS, Docker).
+- Currently learning: ML fundamentals, NLP for Turkish text, LLM evaluation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech
+**Languages:** Python, SQL, Java / JavaScript
+**Data:** PostgreSQL, PostGIS
+**Tools:** Docker, Git, VS Code
+
+## 📫 Contact
+[LinkedIn](https://linkedin.com/in/[kullanıcı-adın]) · karadoganfirat1@gmail.com
