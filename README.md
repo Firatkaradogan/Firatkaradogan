@@ -7,9 +7,9 @@ Computer Science student at **Istanbul Bilgi University**, interested in **data 
 - Currently learning: ML fundamentals, NLP for Turkish text, LLM evaluation
 
 ## 🛠️ Tech
-**Languages:** Python, SQL, Java / JavaScript
-**Data:** PostgreSQL, PostGIS
-**Tools:** Docker, Git, VS Code
+- **Languages:** Python, SQL, Java
+- **Data:** PostgreSQL, PostGIS
+- **Tools:** Docker, Git, VS Code
 
 ## 📫 Contact
 [LinkedIn](https://linkedin.com/in/[kullanıcı-adın]) · karadoganfirat1@gmail.com
